@@ -6,5 +6,5 @@
         ---user:简单的与sso子系统进行交互<br/>
          
 
-### 具体解释请转至我的个人博客：
+   具体解释请转至我的个人博客：<a href="http://www.cnblogs.com/GregZQ/p/8367346.html">单点登录实现方案</a> 
        
